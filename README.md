@@ -1,4 +1,4 @@
-Archaeological Site Prediction Using LiDAR and Satellite Imagery
+## Archaeological Site Prediction Using LiDAR and Satellite Imagery
 
 ## Overview
 
